@@ -1,0 +1,14 @@
+{
+  "name": "voice-agent",
+  "version": "1.0.0",
+  "description": "AI conversational agent with ChatGPT + ElevenLabs",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
